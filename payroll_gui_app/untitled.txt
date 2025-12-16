@@ -1,0 +1,11 @@
+Things I need to put in here:
+
+payroll-project/       <- main project folder
+├─ payroll-gui-app/    <- Python GUI application (the part you push to GitHub)
+│  ├─ gui/
+│  ├─ models/
+│  ├─ main.py
+│  └─ README.md
+├─ docs/               <- screenshots, UML diagrams, user docs
+├─ test_files/         <- optional: CSVs, sample employee data
+└─ project_plan.md     <- your project documentation
