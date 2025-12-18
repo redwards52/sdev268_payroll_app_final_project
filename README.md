@@ -7,10 +7,15 @@ Project Structure:
 The project is organized into the following main components:
 
 - main.py - starts the application
-- ui/ - Contains the graphical user interface (GUI) created with Tkinter
+- gui/ - Contains the graphical user interface (GUI) created with Tkinter
 - models/ - Handles employee data and payroll-related information
 - utils/ - Includes helper functions such as payroll calculations and input validation
 - data/ - Stores employee records and generated payroll reports
+- docs/ - Folder contains all project-related documentation:
+  - UML - visual representation and design patterns
+  - User Documentation - User manual with instructions and screenshots
+  - Test Log - Logs of unit test runs
+  - Screenshots - Images showing the functionality, error messages, or test results
 
 Features:
 - GUI using Tkinter
