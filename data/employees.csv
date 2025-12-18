@@ -1,0 +1,13 @@
+employee_id,first_name,last_name,email,pay_type,status,dob,gender,medical,dependents,department,job_title,base_salary
+E001,Leah,Boalich,.lkboalich@gmail.com,Salary,Active,1985-02-14,M,Single,0,HR,Manager,65000
+E002,Maria,Gonzalez,maria.gonzalez@example.com,Hourly,Active,1992-06-21,F,Family,2,Sales,Sales Associate,20
+E003,Wei,Chen,wei.chen@example.com,Salary,Active,1988-11-03,M,Single,0,IT,Developer,72000
+E004,Regine,Benton,reginenbenton@gmail.com,Hourly,Active,1994-07-24,F,Family,3,Customer Service,Representative,18
+E005,James,Johnson,james.johnson@example.com,Salary,Active,1980-01-28,M,Single,1,Finance,Accountant,68000
+E006,Madi,Hauptmann,mhauptmann@ivytech.edu,Hourly,Active,1993-12-12,F,Single,0,Marketing,Assistant,19
+E007,Devon,Patel,devon.patel@example.com,Salary,Active,1986-07-05,M,Family,2,Operations,Analyst,70000
+E008,Keisha,Robinson,keisha.robinson@example.com,Hourly,Active,1990-05-30,F,Family,1,HR,Coordinator,22
+E009,Hiroshi,Tanaka,hiroshi.tanaka@example.com,Salary,Active,1984-04-18,M,Single,0,IT,Architect,85000
+E010,Emma,O’Connor,emma.oconnor@example.com,Hourly,Active,1997-08-25,F,Single,0,Sales,Assistant,17
+E011,Liam,Nguyen,liam.nguyen@example.com,Salary,Active,1989-03-14,M,Family,2,Finance,Manager,78000
+E012,Isabella,Lopez,isabella.lopez@example.com,Hourly,Active,1996-10-02,F,Single,1,Customer Service,Representative,20
